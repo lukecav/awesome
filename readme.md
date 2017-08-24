@@ -218,6 +218,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [WordPress](https://github.com/miziomon/awesome-wordpress) - WordPress is a free and open-source content management system (CMS) based on PHP and MySQL.
 
 
 ## Back-End Development
